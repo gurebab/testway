@@ -1715,6 +1715,7 @@ footer .con .wrap .qr_wrap .qr img {
     .section07 .history{
         flex-wrap: wrap;
         gap : 36px;
+        width: 100%;
     }
     .section07 .history li{
         width: calc((100% - 72px) / 3);
